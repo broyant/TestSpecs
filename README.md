@@ -27,3 +27,5 @@ GuNing, guning@pwrd.com
 ## License
 
 PodTest is available under the MIT license. See the LICENSE file for more info.
+# TestSpecs
+Just a Test for private cocoapod spec repo
