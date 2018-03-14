@@ -7,12 +7,14 @@
 //
 
 #import "PDTAppDelegate.h"
+#import <PodTest/PodTest-umbrella.h>
 
 @implementation PDTAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    [Logger log:@"test"];
     return YES;
 }
 
