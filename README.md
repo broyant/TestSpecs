@@ -22,7 +22,7 @@ pod 'PodTest'
 
 ## Author
 
-GuNing, guning@pwrd.com
+Broyant, gn070707@gmail.com
 
 ## License
 
